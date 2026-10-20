@@ -1,1 +1,1 @@
-# -Ndhu-survival-guide
+# Ndhu-survival-guide
